@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+reports/*
+logs/*
+resources/download/*
+venv/
+.env
